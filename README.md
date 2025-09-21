@@ -1,8 +1,6 @@
-# Data-Security-Lab
-DAM &amp; Data Protection Specialist | Purview | MITRE ATT&amp;CK | SIEM &amp; IR | GDPR/LGPD
-# Data Security Lab  
-
 **Data Protection & Compliance Specialist**  
+
+DAM &amp; Data Protection Specialist | Purview | MITRE ATT&amp;CK | SIEM &amp; IR | GDPR/LGPD
 
 Hello! I'm **Gledson Fernandes**, an Information Security Specialist with over 9 years of experience in complex environments (e.g., Cielo, Atento). This repository documents my work in **data security, compliance, and access governance**, focusing on practical implementations of standards and tools like Microsoft Purview, MITRE ATT&CK, and multi-cloud security.
 
