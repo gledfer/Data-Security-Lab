@@ -37,9 +37,8 @@ Hello! I'm **Gledson Fernandes**, an Information Security Specialist with over 9
 ---
 
 ## 📚 Certifications & Learning  
-- **Microsoft SC-900** (Security, Compliance, and Identity Fundamentals)  
-- **ISO 27001 Lead Implementer** (Planned for 2025)  
-- **Certified Data Privacy Solutions Engineer (CDPSE)** (In Progress)  
+- **DAM Framework ** (Self Study) 
+- **ISO 27001 ** (Self Study)  
 - **OWASP API Security Top 10** (Self-Study)  
 
 ---
